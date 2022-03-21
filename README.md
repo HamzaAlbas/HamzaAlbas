@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
-<h3 align="center">An unity developer.</h3>
+<h3 align="center">A unity developer.</h3>
 
 - 🔭 I’m currently working on [a hyper-casual mobile game.](https://github.com/HamzaAlbas/Dodge-Expert)
 
