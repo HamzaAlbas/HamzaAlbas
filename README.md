@@ -14,8 +14,7 @@ Hi I'm Hamza, a game developer who usually uses Unity. I really enjoy learning U
 </p>
 
 
-## Examples of My Work
-https://user-images.githubusercontent.com/80459903/189877027-0fd866c9-516a-4d5e-9255-26f5214bb643.mp4
+
 
 
 ##
